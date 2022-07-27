@@ -1,0 +1,8 @@
+name: "RandomCraft"
+main: "com.randomcraft.RandomCraft"
+version: "1.0"
+api-version: "1.19"
+commands:
+  randomcraft:
+    permission: randomcraft.command
+    aliases: [rc]
